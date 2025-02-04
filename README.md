@@ -18,7 +18,7 @@
 ## Work Experience  
 
 ### **Research Analyst @ Health Technology Lab, Indiana University** *(April 2024 - December 2024)*  
-***Capstone - Spatio-cognitive abilities and its association with executive functions: A Study using Virtual Reality*** 
+**Capstone - Spatio-cognitive abilities and its association with executive functions: A Study using Virtual Reality** 
 - Analyzed VR based real-time data from young adults to investigate the relationship between spatio-cognitive abilities and executive functioning, with performance compared across distinct levels of visual complexity.    
 - Processed movement data (position coordinates, quaternions), action data (sensor-based actions), and step completion timestamps to track participant interactions in real time. 
 - Extracted 300+ features representing executive functions from participant performance in VR tasks and analyzed their associations with spatial skills using statistical methods.  
@@ -27,7 +27,7 @@
 Skills: Data Collection, Preprocessing, Statistical Analysis, Feature Extraction & Selection, ML Modeling
 
 ### **Teaching Assistant - Clinical Decision Support Systems @ Indiana University, Indianapolis** *(July 2024 - December 2024)*  
-Assisted students in understanding Clinical Decision Support (CDS) concepts, guided them through implementing clinical decision rules in OpenEMR, and collaborated with the class to explore realworld applications in healthcare.  
+- Assisted students in understanding Clinical Decision Support (CDS) concepts, guided them through implementing clinical decision rules in OpenEMR, and collaborated with the class to explore realworld applications in healthcare.  
 
 ### **Research Analyst @ PLHI Lab , Indiana University** *(August 2023 - April 2024)*  
 **Datathon Impact Analysis and Visualization Dashboard** 
@@ -36,7 +36,7 @@ Assisted students in understanding Clinical Decision Support (CDS) concepts, gui
 Database Management: Imported data into SQLite by creating Django models to merge data.   
 
 **DHIS2 - Immunization Registry for newborns and mothers in Nigeria**
-Designed a mobile application using DHIS2 to create an immunization registry system encompassing newborn registration, vaccination scheduling, and tracking functionalities, while also implementing a robust dashboard and reporting system to enhance public health data management by monitoring immunization coverage, adverse reactions, and growth metrics.
+- Designed a mobile application using DHIS2 to create an immunization registry system encompassing newborn registration, vaccination scheduling, and tracking functionalities, while also implementing a robust dashboard and reporting system to enhance public health data management by monitoring immunization coverage, adverse reactions, and growth metrics.
 
 ### **EHR Intern @ Kasturba Hospital, Manipal** *(December 2020 - March 2023)*  
 - Participated in the EMR implementation UBQmedics, investigated the HIMS software, and contributed to the transition from paper-based to electronic health records. Assisted in the annual auditing process for National Accreditation Board for Hospitals & Healthcare Providers (NABH) accreditation. 
@@ -48,7 +48,7 @@ Designed a mobile application using DHIS2 to create an immunization registry sys
 - Designed an interactive Tableau dashboard to visualize trends, including running totals and year-end summaries for patients with active hospital enrollment.
 
 **Patient Waitlist Analysis Dashboard - PowerBI** *(November 2024)* 
-Designed a dynamic dashboard using historical data (2018–2021) to analyze waitlist trends, patient distributions, and key metrics supporting prioritization and management of patient waitlists across specialties and case types. 
+- Designed a dynamic dashboard using historical data (2018–2021) to analyze waitlist trends, patient distributions, and key metrics supporting prioritization and management of patient waitlists across specialties and case types. 
 
 **Evaluating LM-BFF on RoBERTa and ALBERT**  *(Jan 2024 – Apr 2024)* 
 - Evaluated few-shot learning capabilities of pre-trained language models like RoBERTa and ALBERT by utilizing LM-BFF (Better Few-Shot Fine-Tuning) methodology. 
