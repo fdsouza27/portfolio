@@ -2,7 +2,6 @@
 <hr style="border: dotted 1px; width: 100%;" />
 
 ## Technical Skills
-<hr style="border: dotted 1px; width: 100%;" />
 
 - **Languages**:           SQL, Python, R 
 - **Data Visualization**:  Tableau, Power BI, R Shiny 
@@ -10,16 +9,18 @@
 - **Libraries**:           NumPy, Pandas, Scikit-learn, Plotly, Matplotlib, TensorFlow, PyTorch, Hugging Face 
 - **Databases**:           Microsoft Access, Oracle SQL, SQLite, PostgreSQL 
 - **Medical Coding**:      ICD-10, ICF, PCS, ICPM, SNOMED, CPT 
-- **Other**:               Django, HTML, CSS, Perl, jQuery, Ajax             
+- **Other**:               Django, HTML, CSS, Perl, jQuery, Ajax
+
+<hr style="border: dotted 1px; width: 100%;" />             
 
 ## Education
-<hr style="border: dotted 1px; width: 100%;" />
 
 - **M.S., Health Informatics** | Indiana University, Indianapolis (December 2024)  
 - **B.S., Health Information Management** | Manipal University, India (May 2023)
-  
+
+<hr style="border: dotted 1px; width: 100%;" />  
+
 ## Work Experience  
-<hr style="border: dotted 1px; width: 100%;" />
 
 ### **Research Analyst @ Health Technology Lab, Indiana University** *(April 2024 - December 2024)*  
 **Capstone - Spatio-cognitive abilities and its association with executive functions: A Study using Virtual Reality** 
@@ -48,8 +49,10 @@
 - Participated in the **EHR implementation UBQmedics**, investigated the HIMS software, and contributed to the transition from paper-based to electronic health records. Assisted in the annual auditing process for **National Accreditation Board for Hospitals & Healthcare Providers (NABH) accreditation**. 
 - Collaborated on quality evaluations in the Out-Patient Department to enhance patient care, led mock drills to improve hospital readiness for critical incidents, and managed medical records to ensure compliance and secure handling of confidential data.
 
+<hr style="border: dotted 1px; width: 100%;" />  
+
 ## Projects
-<hr style="border: width: 100%;" />
+
 **Flu Shot 2022 Dashboard – EDA using SQL and Tableau**  *(November 2024)*  
 [🔗 View Repo](https://github.com/fdsouza27/Flu-Shot-Dashoard)
 - Conducted EDA on flu shot trends for 2022 using **PostgreSQL**, focusing on age, race, county, and overall demographics. 
@@ -79,9 +82,13 @@
 - Collaborated in developing a **Technology Readiness Level (TRL) - II healthcare prototype** to streamline nursing tasks and enhance patient monitoring in Tier II and Tier III hospitals, with a primary focus on visualization using **RStudio and Shiny**.  
 - Shortlisted among the **top 10 ranking teams** in an All-India MedTech Hackathon.
 
+<hr style="border: dotted 1px; width: 100%;" />  
+
 ## Volunteering
 <hr style="border: dotted 1px; width: 100%;" />
 
 - **National Eucharistic Congress** *(2024)*
 - **Voluntary Service Overseas** *(2022)*  
 - **International Association of Students in Economics and Business (AIESEC)** *(2019)*
+
+
