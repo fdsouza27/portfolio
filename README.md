@@ -21,30 +21,30 @@
 **Capstone - Spatio-cognitive abilities and its association with executive functions: A Study using Virtual Reality** 
 - Analyzed VR based real-time data from young adults to investigate the relationship between spatio-cognitive abilities and executive functioning, with performance compared across distinct levels of visual complexity.    
 - Processed movement data (position coordinates, quaternions), action data (sensor-based actions), and step completion timestamps to track participant interactions in real time. 
-- Extracted 300+ features representing executive functions from participant performance in VR tasks and analyzed their associations with spatial skills using statistical methods.  
-- Selected key features through ReliefF and Correlation based attribute evaluation to predict spatio-cognitive scores.  
+- Extracted **300+ features** representing executive functions from participant performance in VR tasks and analyzed their associations with spatial skills using statistical methods.  
+- Selected key features through **ReliefF** and **Correlation based attribute evaluation** to predict spatio-cognitive scores.  
 - Achieved 67% accuracy in predicting an individual’s spatio-cognitive score across simple and complex visual environments using different ML algorithms.  
-Skills: Data Collection, Preprocessing, Statistical Analysis, Feature Extraction & Selection, ML Modeling
+**Skills: Data Collection, Preprocessing, Statistical Analysis, Feature Extraction & Selection, ML Modeling**
 
 ### **Teaching Assistant - Clinical Decision Support Systems @ Indiana University, Indianapolis** *(July 2024 - December 2024)*  
-- Assisted students in understanding Clinical Decision Support (CDS) concepts, guided them through implementing clinical decision rules in OpenEMR, and collaborated with the class to explore realworld applications in healthcare.  
+- Assisted students in understanding Clinical Decision Support (CDS) concepts, guided them through implementing clinical decision rules in **OpenEMR**, and collaborated with the class to explore realworld applications in healthcare.  
 
 ### **Research Analyst @ PLHI Lab , Indiana University** *(August 2023 - April 2024)*  
 **Datathon Impact Analysis and Visualization Dashboard** 
-- Developed an interactive dashboard using Python, Django, Plotly and SQL to track and analyze the impact of Health Datathons, focusing on the increase in publications resulting from author collaborations during these events.  
+- Developed an interactive dashboard using **Python, Django, Plotly and SQL** to track and analyze the impact of Health Datathons, focusing on the increase in publications resulting from author collaborations during these events.  
 - Analyzed over 6,400 rows of author details, highlighting year-over-year changes in publications. Automated the search process, achieving a 100% reduction in manual queries. 
-Database Management: Imported data into SQLite by creating Django models to merge data.   
+*Database Management*: Imported data into **SQLite** by creating Django models to merge data.   
 
 **DHIS2 - Immunization Registry for newborns and mothers in Nigeria**
-- Designed a mobile application using DHIS2 to create an immunization registry system encompassing newborn registration, vaccination scheduling, and tracking functionalities, while also implementing a robust dashboard and reporting system to enhance public health data management by monitoring immunization coverage, adverse reactions, and growth metrics.
+- Designed a mobile application using **DHIS2** to create an immunization registry system encompassing newborn registration, vaccination scheduling, and tracking functionalities, while also implementing a robust dashboard and reporting system to enhance public health data management by monitoring immunization coverage, adverse reactions, and growth metrics.
 
 ### **EHR Intern @ Kasturba Hospital, Manipal** *(December 2020 - March 2023)*  
-- Participated in the EMR implementation UBQmedics, investigated the HIMS software, and contributed to the transition from paper-based to electronic health records. Assisted in the annual auditing process for National Accreditation Board for Hospitals & Healthcare Providers (NABH) accreditation. 
+- Participated in the **EHR implementation UBQmedics**, investigated the HIMS software, and contributed to the transition from paper-based to electronic health records. Assisted in the annual auditing process for **National Accreditation Board for Hospitals & Healthcare Providers (NABH) accreditation**. 
 - Collaborated on quality evaluations in the Out-Patient Department to enhance patient care, led mock drills to improve hospital readiness for critical incidents, and managed medical records to ensure compliance and secure handling of confidential data.
 
 ## Projects
 **Flu Shot 2022 Dashboard – EDA using SQL and Tableau**  *(November 2024)*   
-- Conducted EDA on flu shot trends for 2022 using PostgreSQL, focusing on age, race, county, and overall demographics. 
+- Conducted EDA on flu shot trends for 2022 using **PostgreSQL**, focusing on age, race, county, and overall demographics. 
 - Designed an interactive Tableau dashboard to visualize trends, including running totals and year-end summaries for patients with active hospital enrollment.
 
 **Patient Waitlist Analysis Dashboard - PowerBI** *(November 2024)* 
@@ -56,7 +56,7 @@ Database Management: Imported data into SQLite by creating Django models to merg
 
 **Deciphering Parkinson’s Disease Vocal Biomarkers using R** *(Aug 2023 – Dec 2023)* 
 - Analyzed the impact of age & sex on vocal metrics including Jitter, Shimmer & Harmonic to Noise Ratio. 
-- Performed statistical tests such as Shapiro-Wilk for normality, Mann-Whitney U for non-parametric comparisons and Multiple Regression to determine predictive relationships between disease severity and voice metrics.
+- Performed **statistical tests** such as Shapiro-Wilk for normality, Mann-Whitney U for non-parametric comparisons and Multiple Regression to determine predictive relationships between disease severity and voice metrics.
 
 **Correlation study on the likelihood of having a heart attack given proper diabetic & lifestyle management** *(Aug 2023 – Dec 2023)* 
 - Executed data cleaning and preprocessing on the 2020 Behavioural Risk Factor Surveillance dataset. 
@@ -64,5 +64,5 @@ Database Management: Imported data into SQLite by creating Django models to merg
 - Reviewed predictive models to identify the best approach for heart attack prediction & provided reports on the findings.
 
 **Manipal – Government of Karnataka Bio-incubator MedTech Hackathon**  *(Sep 2022 – Oct 2022)* 
-- Collaborated in developing a Technology Readiness Level (TRL) - II healthcare prototype to streamline nursing tasks and enhance patient monitoring in Tier II and Tier III hospitals, with a primary focus on visualization using RStudio and Shiny.  
-- Shortlisted among the top 10 ranking teams in an All-India MedTech Hackathon.
+- Collaborated in developing a **Technology Readiness Level (TRL) - II healthcare prototype** to streamline nursing tasks and enhance patient monitoring in Tier II and Tier III hospitals, with a primary focus on visualization using **RStudio and Shiny**.  
+- Shortlisted among the **top 10 ranking teams** in an All-India MedTech Hackathon.
