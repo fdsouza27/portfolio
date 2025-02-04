@@ -75,6 +75,6 @@
 - Shortlisted among the **top 10 ranking teams** in an All-India MedTech Hackathon.
 
 ## Volunteering
-- **National Eucharistic Congress** |  (2024)
-- **Voluntary Service Overseas** |  (2022)  
-- **International Association of Students in Economics and Business (AIESEC)** | (2019)
+- **National Eucharistic Congress** *(2024)*
+- **Voluntary Service Overseas** *(2022)*  
+- **International Association of Students in Economics and Business (AIESEC)** *(2019)*
