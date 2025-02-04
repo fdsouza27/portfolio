@@ -18,6 +18,7 @@
   
 ## Work Experience  
 <hr style="border: dotted 1px; width: 100%;" />
+
 ### **Research Analyst @ Health Technology Lab, Indiana University** *(April 2024 - December 2024)*  
 **Capstone - Spatio-cognitive abilities and its association with executive functions: A Study using Virtual Reality** 
 [🔗 View Repo](https://github.com/fdsouza27/ExecutiveFunctions-Cognition)
