@@ -1,7 +1,8 @@
 # Data Analyst | Clinical Research
+<hr style="border: dotted 2px; width: 100%;" />
 
 ## Technical Skills
-
+<hr style="border: dotted 1px; width: 100%;" />
 - **Languages**:           SQL, Python, R 
 - **Data Visualization**:  Tableau, Power BI, R Shiny 
 - **Tools**:               SAS, DHIS2, Git, WEKA 
@@ -11,12 +12,12 @@
 - **Other**:               Django, HTML, CSS, Perl, jQuery, Ajax             
 
 ## Education
-
+<hr style="border: dotted 1px; width: 100%;" />
 - **M.S., Health Informatics** | Indiana University, Indianapolis (December 2024)  
 - **B.S., Health Information Management** | Manipal University, India (May 2023)
   
 ## Work Experience  
-
+<hr style="border: dotted 1px; width: 100%;" />
 ### **Research Analyst @ Health Technology Lab, Indiana University** *(April 2024 - December 2024)*  
 **Capstone - Spatio-cognitive abilities and its association with executive functions: A Study using Virtual Reality** 
 [🔗 View Repo](https://github.com/fdsouza27/ExecutiveFunctions-Cognition)
@@ -45,6 +46,7 @@
 - Collaborated on quality evaluations in the Out-Patient Department to enhance patient care, led mock drills to improve hospital readiness for critical incidents, and managed medical records to ensure compliance and secure handling of confidential data.
 
 ## Projects
+<hr style="border: dotted 1px; width: 100%;" />
 **Flu Shot 2022 Dashboard – EDA using SQL and Tableau**  *(November 2024)*  
 [🔗 View Repo](https://github.com/fdsouza27/Flu-Shot-Dashoard)
 - Conducted EDA on flu shot trends for 2022 using **PostgreSQL**, focusing on age, race, county, and overall demographics. 
@@ -75,6 +77,7 @@
 - Shortlisted among the **top 10 ranking teams** in an All-India MedTech Hackathon.
 
 ## Volunteering
+<hr style="border: dotted 1px; width: 100%;" />
 - **National Eucharistic Congress** *(2024)*
 - **Voluntary Service Overseas** *(2022)*  
 - **International Association of Students in Economics and Business (AIESEC)** *(2019)*
