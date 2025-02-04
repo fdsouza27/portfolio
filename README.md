@@ -19,6 +19,7 @@
 
 ### **Research Analyst @ Health Technology Lab, Indiana University** *(April 2024 - December 2024)*  
 **Capstone - Spatio-cognitive abilities and its association with executive functions: A Study using Virtual Reality** 
+[🔗 View Repo](https://github.com/fdsouza27/ExecutiveFunctions-Cognition)
 - Analyzed VR based real-time data from young adults to investigate the relationship between spatio-cognitive abilities and executive functioning, with performance compared across distinct levels of visual complexity.    
 - Processed movement data (position coordinates, quaternions), action data (sensor-based actions), and step completion timestamps to track participant interactions in real time. 
 - Extracted **300+ features** representing executive functions from participant performance in VR tasks and analyzed their associations with spatial skills using statistical methods.  
