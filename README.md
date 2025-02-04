@@ -1,8 +1,9 @@
 # Data Analyst | Clinical Research
-<hr style="border: dotted 2px; width: 100%;" />
+<hr style="border: dotted 1px; width: 100%;" />
 
 ## Technical Skills
-<hr style="border: width: 100%;" />
+<hr style="border: dotted 1px; width: 100%;" />
+
 - **Languages**:           SQL, Python, R 
 - **Data Visualization**:  Tableau, Power BI, R Shiny 
 - **Tools**:               SAS, DHIS2, Git, WEKA 
@@ -12,12 +13,13 @@
 - **Other**:               Django, HTML, CSS, Perl, jQuery, Ajax             
 
 ## Education
-<hr style="border: width: 100%;" />
+<hr style="border: dotted 1px; width: 100%;" />
+
 - **M.S., Health Informatics** | Indiana University, Indianapolis (December 2024)  
 - **B.S., Health Information Management** | Manipal University, India (May 2023)
   
 ## Work Experience  
-<hr style="border: width: 100%;" />
+<hr style="border: dotted 1px; width: 100%;" />
 
 ### **Research Analyst @ Health Technology Lab, Indiana University** *(April 2024 - December 2024)*  
 **Capstone - Spatio-cognitive abilities and its association with executive functions: A Study using Virtual Reality** 
@@ -78,7 +80,8 @@
 - Shortlisted among the **top 10 ranking teams** in an All-India MedTech Hackathon.
 
 ## Volunteering
-<hr style="border: width: 100%;" />
+<hr style="border: dotted 1px; width: 100%;" />
+
 - **National Eucharistic Congress** *(2024)*
 - **Voluntary Service Overseas** *(2022)*  
 - **International Association of Students in Economics and Business (AIESEC)** *(2019)*
