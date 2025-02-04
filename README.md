@@ -32,6 +32,7 @@
 
 ### **Research Analyst @ PLHI Lab , Indiana University** *(August 2023 - April 2024)*  
 **Datathon Impact Analysis and Visualization Dashboard** 
+[🔗 View Repo](https://github.com/fdsouza27/DatathonImpact)
 - Developed an interactive dashboard using **Python, Django, Plotly and SQL** to track and analyze the impact of Health Datathons, focusing on the increase in publications resulting from author collaborations during these events.  
 - Analyzed over 6,400 rows of author details, highlighting year-over-year changes in publications. Automated the search process, achieving a 100% reduction in manual queries. 
 *Database Management*: Imported data into **SQLite** by creating Django models to merge data.   
@@ -44,22 +45,27 @@
 - Collaborated on quality evaluations in the Out-Patient Department to enhance patient care, led mock drills to improve hospital readiness for critical incidents, and managed medical records to ensure compliance and secure handling of confidential data.
 
 ## Projects
-**Flu Shot 2022 Dashboard – EDA using SQL and Tableau**  *(November 2024)*   
+**Flu Shot 2022 Dashboard – EDA using SQL and Tableau**  *(November 2024)*  
+[🔗 View Repo](https://github.com/fdsouza27/Flu-Shot-Dashoard)
 - Conducted EDA on flu shot trends for 2022 using **PostgreSQL**, focusing on age, race, county, and overall demographics. 
 - Designed an interactive Tableau dashboard to visualize trends, including running totals and year-end summaries for patients with active hospital enrollment.
 
-**Patient Waitlist Analysis Dashboard - PowerBI** *(November 2024)* 
+**Patient Waitlist Analysis Dashboard - PowerBI** *(November 2024)*
+[🔗 View Repo](https://github.com/fdsouza27/Patient-WaitList-Dashoard)
 - Designed a dynamic dashboard using historical data (2018–2021) to analyze waitlist trends, patient distributions, and key metrics supporting prioritization and management of patient waitlists across specialties and case types. 
 
 **Evaluating LM-BFF on RoBERTa and ALBERT**  *(Jan 2024 – Apr 2024)* 
+[🔗 View Repo](https://github.com/fdsouza27/LM-BFF)
 - Evaluated few-shot learning capabilities of pre-trained language models like RoBERTa and ALBERT by utilizing LM-BFF (Better Few-Shot Fine-Tuning) methodology. 
 - Implemented prompt-based fine-tuning on Pubmed20k with an accuracy of 65% and conducted comparative performance analyses across various NLP tasks, including single-sentence classification and sentiment analysis, using benchmark datasets like CoLA, SST-2, and RTE.
 
 **Deciphering Parkinson’s Disease Vocal Biomarkers using R** *(Aug 2023 – Dec 2023)* 
+[🔗 View Repo](https://github.com/fdsouza27/Parkinsons_VoiceMetrics)
 - Analyzed the impact of age & sex on vocal metrics including Jitter, Shimmer & Harmonic to Noise Ratio. 
 - Performed **statistical tests** such as Shapiro-Wilk for normality, Mann-Whitney U for non-parametric comparisons and Multiple Regression to determine predictive relationships between disease severity and voice metrics.
 
 **Correlation study on the likelihood of having a heart attack given proper diabetic & lifestyle management** *(Aug 2023 – Dec 2023)* 
+[🔗 View Repo](https://github.com/fdsouza27/HeartAttack-Prediction)
 - Executed data cleaning and preprocessing on the 2020 Behavioural Risk Factor Surveillance dataset. 
 - Performed descriptive analyses, explored insights, and conducted statistical tests. 
 - Reviewed predictive models to identify the best approach for heart attack prediction & provided reports on the findings.
