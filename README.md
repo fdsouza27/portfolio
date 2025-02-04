@@ -1,4 +1,4 @@
-# Data Analyst | Researcher
+# Data Analyst | Clinical Research
 
 ## Technical Skills
 
