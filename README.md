@@ -73,3 +73,8 @@
 **Manipal – Government of Karnataka Bio-incubator MedTech Hackathon**  *(Sep 2022 – Oct 2022)* 
 - Collaborated in developing a **Technology Readiness Level (TRL) - II healthcare prototype** to streamline nursing tasks and enhance patient monitoring in Tier II and Tier III hospitals, with a primary focus on visualization using **RStudio and Shiny**.  
 - Shortlisted among the **top 10 ranking teams** in an All-India MedTech Hackathon.
+
+## Volunteering
+- **National Eucharistic Congress** |  (2024)
+- **Voluntary Service Overseas** |  (2022)  
+- **International Association of Students in Economics and Business (AIESEC)** | (2019)
