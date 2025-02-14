@@ -54,12 +54,12 @@
 ## Projects
 
 **Flu Shot 2022 Dashboard – EDA using SQL and Tableau**  *(November 2024)*  
-[🔗 View Repo](https://github.com/fdsouza27/Flu-Shot-Dashoard)
+[🔗 View Repo](https://github.com/fdsouza27/Flu-Shot-Dashboard)
 - Conducted EDA on flu shot trends for 2022 using **PostgreSQL**, focusing on age, race, county, and overall demographics. 
 - Designed an interactive Tableau dashboard to visualize trends, including running totals and year-end summaries for patients with active hospital enrollment.
 
 **Patient Waitlist Analysis Dashboard - PowerBI** *(November 2024)*
-[🔗 View Repo](https://github.com/fdsouza27/Patient-WaitList-Dashoard)
+[🔗 View Repo](https://github.com/fdsouza27/Patient-WaitList-Dashboard)
 - Designed a dynamic dashboard using historical data (2018–2021) to analyze waitlist trends, patient distributions, and key metrics supporting prioritization and management of patient waitlists across specialties and case types. 
 
 **Evaluating LM-BFF on RoBERTa and ALBERT**  *(Jan 2024 – Apr 2024)* 
