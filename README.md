@@ -9,7 +9,8 @@
 - **Libraries**:           NumPy, Pandas, Scikit-learn, Plotly, Matplotlib, TensorFlow, PyTorch, Hugging Face 
 - **Databases**:           Microsoft Access, Oracle SQL, SQLite, PostgreSQL 
 - **Medical Coding**:      ICD-10, ICF, PCS, ICPM, SNOMED, CPT 
-- **Other**:               Django, HTML, CSS, Perl, jQuery, Ajax
+- **Web Development**:     Django, HTML, CSS, Perl, jQuery, Ajax
+- **Miscellaneous**:       Data Standards (HL7, FHIR), Regulatory Compliance (HIPAA, HITECH) 
 
 <hr style="border: dotted 1px; width: 100%;" />             
 
